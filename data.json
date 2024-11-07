@@ -1,6 +1,16 @@
-{
-    "nama": "tesssss",
-    "noHP": "4444",
-    "kendaraan": "Pickup",
-    "jarak": "656565"
-}
+[
+    {
+        "nama": "wildan",
+        "noHP": "0967156253",
+        "kendaraan": "Sedan",
+        "jarak": "100",
+        "total": 510000
+    },
+    {
+        "nama": "jebew",
+        "noHP": "08111414",
+        "kendaraan": "Sepeda Motor",
+        "jarak": "65",
+        "total": 200000
+    }
+]
