@@ -65,7 +65,7 @@ if (isset($_POST['HapusData'])) {
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Pemesanan Taxi Online</title>
+	<title>Pemesanan kendaraan Online</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="style.css">
@@ -95,7 +95,7 @@ if (isset($_POST['HapusData'])) {
 			<!-- Form Pemesanan -->
 			<div class="col-lg-<?php echo isset($_SESSION['pesanan']) ? '6' : '12'; ?> mb-4">
 				<div class="container-border p-4">
-					<h3>Pemesanan Taxi Online</h3>
+					<h3>Pemesanan kendaraan Online</h3>
 					<img src="logo.jpg" alt="Taxi Online Logo" class="d-block mx-auto my-3" width="60">
 
 					<form action="index.php" method="post" id="formPemesanan">
