@@ -70,22 +70,7 @@ if (isset($_POST['HapusData'])) {
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="style.css">
 	<style>
-		.container-border {
-			background: #fff;
-			border-radius: 12px;
-			padding: 40px 25px;
-			max-width: 450px;
-			width: 100%;
-			box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
-		}
 
-		/* Centering form on initial load */
-		.centered-container {
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			min-height: 100vh;
-		}
 	</style>
 </head>
 
